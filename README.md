@@ -13,4 +13,5 @@ This is a CMS I made for my moms clothing business - Mostly for managing the clo
 
 # Screenshot
 ![Dashboard of CMS](git.png)
+![Product Management of CMS](git2.png)
 
