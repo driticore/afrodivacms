@@ -1,0 +1,10 @@
+{
+  "projectName": "afrodivacms",
+  "meta": {
+    "type": "backend"
+  },
+  "backend": {
+    "platform": "php7.4"
+  },
+  "hash": "77078001"
+}
