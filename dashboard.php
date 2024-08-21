@@ -7,7 +7,7 @@ include("includes/database.php");
 secure();
 
 // Initialize user count variable
-$user_count = 0;
+$user_count = [];
 $product_counts = [];
 $category_ids = [];
 
