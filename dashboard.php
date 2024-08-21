@@ -74,7 +74,7 @@ $stm->close();
             labels: ['Users'], // Labels for your data
             datasets: [{
                 label: 'Number of Users',
-                data: [<?php echo $user_count; ?>], // PHP variable with user count
+                data: [<?php echo json_encode($user_count;) ?>], // PHP variable with user count
                 backgroundColor: '##0000',
                 borderColor: '#fefefe',
                 borderWidth: 1
