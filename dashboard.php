@@ -80,6 +80,13 @@ $stm->close();
                 borderWidth: 1
             }]
         },
+        options: {
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            }
+        }
     });
 
     // Products Chart
